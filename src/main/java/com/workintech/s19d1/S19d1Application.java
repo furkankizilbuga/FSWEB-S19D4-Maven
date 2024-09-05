@@ -1,6 +1,6 @@
 package com.workintech.s19d1;
 
-import com.workintech.s19d1.entity.Actor;
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
